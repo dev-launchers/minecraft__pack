@@ -1,7 +1,8 @@
-# Dev Launchers Minecraft Resource Pack
-## Download the .zip file to make changes to the resource pack!
+# Want to help us with the pack?? Download the .zip file to make changes to the resource pack!
 
-## How do I get the zip file and add new asset? 
+---
+
+## How to download this pack:
 ### Download the current version of the asset pack from __this__ page (the one you're on right now!)
 [![](https://cdn.discordapp.com/attachments/705526685134487614/785335049695658004/download_1.png)](Screenshot)
 
