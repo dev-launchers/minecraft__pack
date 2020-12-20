@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/potato"
   },
   "overrides": [
-     { "predicate": {"custom_model_data":1}, "model": "item/bean" }
-	 { "predicate": {"custom_model_data":2}, "model": "item/golden_bean" }
+     { "predicate": {"custom_model_data":33}, "model": "item/bean" },
+	 { "predicate": {"custom_model_data":34}, "model": "item/golden_bean" }
   ]
 }
