@@ -5,6 +5,7 @@
   },
   "overrides": [
      { "predicate": {"custom_model_data":33}, "model": "item/bean" },
-	 { "predicate": {"custom_model_data":34}, "model": "item/golden_bean" }
+	 { "predicate": {"custom_model_data":34}, "model": "item/golden_bean" },
+	 { "predicate": {"custom_model_data":35}, "model": "item/build_bean" }
   ]
 }

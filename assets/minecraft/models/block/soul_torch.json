@@ -2,5 +2,8 @@
   "parent": "minecraft:block/template_torch",
   "textures": {
     "torch": "minecraft:block/soul_torch"
-  }
+  },
+  "overrides": [
+     { "predicate": {"custom_model_data":92}, "model": "block/torch" }
+	]
 }

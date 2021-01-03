@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_torch",
+  "textures": {
+    "layer0": "minecraft:block/build_bean_vines"
+  }
+}
